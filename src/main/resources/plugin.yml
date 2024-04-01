@@ -1,0 +1,4 @@
+name: lobby
+author: Letra Invisível
+version: 0.5
+main: network.twisty.lobby.LobbyPlugin
